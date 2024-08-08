@@ -1,2 +1,1 @@
-# BMS-Table-Template
-BMS難易度表のテンプレートです。
+# 集大成
